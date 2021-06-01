@@ -108,6 +108,8 @@ Could you give me some advice about buying a home? ( recommendation )
 She organizes her financial affairs very efficiently ( matter )
 31-40
 
+### 31-40
+
 31 Affected  
 We were all deeply affected by her death ( have an effect on )
 
