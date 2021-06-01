@@ -106,7 +106,6 @@ Could you give me some advice about buying a home? ( recommendation )
 
 30 Affairs  
 She organizes her financial affairs very efficiently ( matter )
-31-40
 
 ### 31-40
 
