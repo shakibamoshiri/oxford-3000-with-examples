@@ -1,6 +1,9 @@
 # oxford-3000-with-examples
 Oxford 3000 with examples
 
+Work in Process (WIP).  
+I am hoping to add 8 up to 16 words everyday.
+
 [1-10](#1-10)  
 [11-20](#11-20)  
 [21-30](#21-30)  
@@ -159,7 +162,7 @@ The Martins' house is somewhere along this road ( beside )
 46 Alongside  
 Antonia spent a week working alongside the miners ( beside )
 
-47 Aloud
+47 Aloud  
 Bob, would you read the poem aloud? ( out load )
 
 48 already  
