@@ -115,9 +115,54 @@ We were all deeply affected by her death ( have an effect on )
 32 Afford  
 We cannot afford to go on vacation this year ( have enough money )
 
+33 Afraid
+I did not tell her because I was afraid of upsetting her ( frightened )
+
+34 His wife fell ill in June and died soon afterwards ( later )
+
+35 Age
+Dad retired at the age of 56 ( number of years )
+
+36 Agent
+He had been a secret agent of the enemy all the time ( representative )
+
+37 Aggressive
+Teachers expect a certain amount of aggressive behavior from boys ( violent )
+
+38 Ahead
+David had his breakfast and thought about the day ahead ( into the future )
+
+39 Aid
+The old man walked painfully, with the aid of a stick ( help )
+
+40 Aim
+the main aim of the course is to improve your writing ( goal )
+
 ### 41-50
 
+41 Alive
+Dockers kept him alive on a life-support machine ( living )
 
+42 Ally
+The auto industry has many allies in Congress ( friend )
+
+43 Allied
+Information was shared between the allied governments ( connected )
+
+44 Alone
+You should not leave a child alone in the house ( and no one else )
+
+45 Along
+The Martins' house is somewhere along this road ( beside )
+
+46 Alongside
+Antonia spent a week working alongside the miners ( beside )
+
+47 Aloud
+Bob, would you read the poem aloud? ( out load )
+
+48 already
+The design of the new house is similar to those that have already been built ( by now )
 
 ### 51-60
 
