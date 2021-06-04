@@ -165,16 +165,60 @@ Antonia spent a week working alongside the miners ( beside )
 47 Aloud  
 Bob, would you read the poem aloud? ( out load )
 
-48 already  
+48 Already  
 The design of the new house is similar to those that have already been built ( by now )
+
+49 Alter  
+Her face had not @altered much over the years ( change )
+
+50 Alternative  
+An @alternative route is along the subway ( another )
 
 ### 51-60
 
+51 although  
+You can copy down my answers, @although I am not sure they are right ( even though )
 
+52 Amazing  
+Hong Kong is an absolutely @amazing city ( wonderful )
+
+53 Ambition  
+He achieved his @ambition of competing in the Olympic Games ( aim )
+
+54 Among  
+I saw him standing @among a group of students ( in the middle of )
+
+55 Amount  
+The @amount of tax you pay depends on how much you earn ( quantity )
+
+56 Amuse
+The book is full of @amusing stories about his childhood ( funny )
+
+57 Ancient  
+Mum looks absolutely @ancient in the picture ( very old )
+
+58 Anger  
+Andrea still feels a lot of @anger towards her mom, who left when she was a little girl ( irritation )
+
+59 Angle  
+Look at every @angle of the situation ( viewpoint )
+
+60 Ankle  
+He then jumped to avoid falling and broke his @ankle ( joint between your foot and your leg )
 
 ### 61-70
 
+61 Anniversary  
+Jack and Kim celebrated their twentieth wedding @anniversary in January ( the day on which an important event happened in a previous year )
 
+62 Announce  
+The government has @announced the date of the next election ( publicize )
+
+63 Annoy  
+Just as I stepped into the shower the phone rang. It was so @annoying ( bothersome )
+
+64 Annual  
+Her @annual income is about $75,000 ( yearly )
 
 ### 71-80
 
