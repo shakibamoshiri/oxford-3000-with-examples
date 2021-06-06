@@ -220,9 +220,61 @@ Just as I stepped into the shower the phone rang. It was so @annoying ( botherso
 64 Annual  
 Her @annual income is about $75,000 ( yearly )
 
+65 Anticipate  
+The journey took a lot longer than we had @anticipated ( expect )
+
+ - anticipate
+ - anticipation
+ - anticipating
+
+66 Anxious  
+Helen is always @anxious about traveling alone ( nervous )
+
+67 Apologize  
+The editors admitted the mistake and @apologized ( say sorry )
+
+68 Apparent  
+What shocked me was the parents' @apparent lack of interest in their child ( obvious )
+
+69 Appeal  
+The Browns have @appealed to the public for any information about their missing daughter ( request )
+
+70 Appear  
+A spider @appeared from under the sofa ( come into view )
+
 ### 71-80
 
+71 Apply  
+We need to @apply for planning permission to build a garage ( submit an application )
 
+72 Appoint  
+The French president has @appointed a new Minster for Culture ( assign )
+
+73 Appreciate  
+All the bad weather here makes me @appreciate home ( be thankful fur )
+
+74 Approach  
+As I @approached the house, I noticed a light on upstairs ( come near )
+
+75 Appropriate  
+Considering what he did, I think punishment was @appropriate ( suitable )
+
+76 Approve of
+I do not @approve of cosmetic surgery ( agree )
+
+77 Approving  
+He gave me an @approving nod ( positive )
+
+78 Approximate  
+Our @approximate time of arrival will be 10:00 ( fairly accurate )
+
+79 Argue  
+Do not @argue with me John, just do what I tell you ( quarrel )
+
+ - My sister an I used to quarrel all the time  
+
+80 Arise  
+All staff are expected to do some overtime, if need @arises ( occur, happen )
 
 ### 81-90
 
